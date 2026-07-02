@@ -110,11 +110,13 @@ Open-source contribution where I fixed issues and improved the codebase.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚧 Currently Working On
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Johnpii1&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+- 🌊 Contributing to blockchain open-source projects
+- ⚛️ Building modern frontend applications with React & Tailwind CSS
+- 🦀 Learning Rust and Soroban smart contract development
+- 🚀 Exploring the Stellar ecosystem
+- 🤝 Contributing to open-source projects and collaborating with developers worldwide
 
 ---
 
