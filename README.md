@@ -12,10 +12,10 @@
 
 I'm a passionate **Frontend Developer** and **Open Source Contributor** with a growing interest in **Blockchain Development**. I enjoy building responsive web applications, contributing to open-source projects, and continuously learning modern technologies.
 
-* 🌱 Currently learning **React, Tailwind CSS, Rust & Stellar**
-* 💻 Building modern, responsive web applications
-* 🤝 Contributing to open-source projects
-* 🚀 Expanding my blockchain development skills
+- 🌱 Currently learning **React, Tailwind CSS, Rust & Stellar**
+- 💻 Building modern, responsive web applications
+- 🤝 Contributing to open-source projects
+- 🚀 Expanding my blockchain development skills
 
 ---
 
@@ -41,6 +41,7 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 🔥 GitHub Streak
@@ -59,22 +60,72 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Pay-Per-Use AI
+
+AI-powered platform that provides pay-per-use access to AI tools and services.
+
+<p align="center">
+<a href="https://github.com/WPrasad99/Pay-Per-Use-Ai">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WPrasad99&repo=Pay-Per-Use-Ai&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/WPrasad99/Pay-Per-Use-Ai">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Fresh Bounty
+
+Open-source contribution where I fixed issues and improved the codebase.
+
+<p align="center">
+<a href="https://github.com/Johnpii1/Fresh-Bounty--fork">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Johnpii1&repo=Fresh-Bounty--fork&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Johnpii1/Fresh-Bounty--fork">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-N/B
+<img src="https://github-profile-trophy.vercel.app/?username=Johnpii1&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
 ## 🎯 Goals for 2026
 
-* ✅ Become a Professional Frontend Developer
-* ✅ Master React & Tailwind CSS
-* ✅ Learn Rust for Blockchain Development
-* ✅ Build Projects on the Stellar Ecosystem
-* ✅ Contribute Consistently to Open Source
-* ✅ Keep Learning and Building
+- ✅ Become a Professional Frontend Developer
+- ✅ Master React & Tailwind CSS
+- ✅ Learn Rust for Blockchain Development
+- ✅ Build Projects on the Stellar Ecosystem
+- ✅ Contribute Consistently to Open Source
+- ✅ Keep Learning and Building
 
 ---
 
@@ -98,22 +149,26 @@ N/B
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:okolichimaobi08@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/Johnpii1">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
 </a>
 
+&nbsp;&nbsp;
 
 <a href="https://t.me/johnpii2" target="_blank">
-  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="50" height="50" alt="Telegram"/>
 </a>
 
 </p>
+
 ---
 
 <div align="center">
