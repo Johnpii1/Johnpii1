@@ -149,7 +149,7 @@ Open-source contribution where I fixed issues and improved the codebase.
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="mailto:okolichimaobi08@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
