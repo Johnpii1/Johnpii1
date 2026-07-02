@@ -38,11 +38,9 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=1800" height="170" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages"/>
 </p>
 
 ---
@@ -123,8 +121,6 @@ N/B
 </p>
 
 <p align="center">
-
-📧 <strong>Email:</strong> <a href="mailto:okolichimaobi08@gmail.com">[okolichimaobi08@gmail.com](mailto:okolichimaobi08@gmail.com)</a><br>
 
 💬 <strong>Telegram:</strong> <a href="https://t.me/johnpii2">@johnpii2</a>
 
