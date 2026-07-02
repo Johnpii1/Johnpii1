@@ -38,9 +38,8 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=1800" height="170" alt="GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
