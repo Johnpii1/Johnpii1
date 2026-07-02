@@ -120,9 +120,11 @@ N/B
 
 </p>
 
-<p align="center">
+<p align="left">
 
-💬 <strong>Telegram:</strong> <a href="https://t.me/johnpii2">@johnpii2</a>
+<a href="https://t.me/johnpii2" target="_blank">
+  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="50" height="50"/>
+</a>
 
 </p>
 
