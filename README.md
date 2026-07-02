@@ -38,10 +38,9 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -105,28 +104,16 @@ N/B
 <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
 </a>
 
-   
-
-<a href="https://t.me/johnpii2">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
-</a>
-
-   
-
 <a href="https://github.com/Johnpii1">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
 </a>
 
-</p>
-
-<p align="left">
 
 <a href="https://t.me/johnpii2" target="_blank">
   <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="50" height="50"/>
 </a>
 
 </p>
-
 ---
 
 <div align="center">
