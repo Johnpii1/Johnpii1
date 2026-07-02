@@ -66,7 +66,7 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Johnpii1&theme=tokyonight&no-frame=true&row=1&column=7"/>
+N/B
 </p>
 
 ---
@@ -102,7 +102,7 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="mailto:okolichimaobi08@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
