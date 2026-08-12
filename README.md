@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Johnpaul
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Open+Source+Contributor;Blockchain+Enthusiast;Learning+React,+Tailwind+%26+Rust;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Open+Source+Contributor;Blockchain+Enthusiast;Learning+React,+Tailwind+%26+Rust;Welcome+to+my+GitHub" />
 
 </div>
 
@@ -22,7 +22,7 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,rust,git,github,vscode,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,rust,git,github,vscode,npm&theme=dark" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 📚 Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,rust,nodejs,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,rust,nodejs,vite&theme=dark" />
 </p>
 
 ---
@@ -38,8 +38,8 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Johnpii1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Johnpii1&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Johnpii1&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnpii1&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnpii1&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -72,15 +72,15 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 AI-powered platform that provides pay-per-use access to AI tools and services.
 
 <p align="center">
-<a href="https://github.com/WPrasad99/Pay-Per-Use-Ai">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WPrasad99&repo=Pay-Per-Use-Ai&theme=tokyonight&hide_border=true"/>
-</a>
+  <a href="https://github.com/WPrasad99/Pay-Per-Use-Ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=Pay-Per-Use-Ai&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/WPrasad99/Pay-Per-Use-Ai">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/WPrasad99/Pay-Per-Use-Ai">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
@@ -92,15 +92,15 @@ AI-powered platform that provides pay-per-use access to AI tools and services.
 Open-source contribution where I fixed issues and improved the codebase.
 
 <p align="center">
-<a href="https://github.com/Johnpii1/Fresh-Bounty--fork">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Johnpii1&repo=Fresh-Bounty--fork&theme=tokyonight&hide_border=true"/>
-</a>
+  <a href="https://github.com/Johnpii1/Fresh-Bounty--fork">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Johnpii1&repo=Fresh-Bounty--fork&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Johnpii1/Fresh-Bounty--fork">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/Johnpii1/Fresh-Bounty--fork">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </td>
@@ -122,12 +122,12 @@ Open-source contribution where I fixed issues and improved the codebase.
 
 ## 🎯 Goals for 2026
 
-- ✅ Become a Professional Frontend Developer
-- ✅ Master React & Tailwind CSS
-- ✅ Learn Rust for Blockchain Development
-- ✅ Build Projects on the Stellar Ecosystem
-- ✅ Contribute Consistently to Open Source
-- ✅ Keep Learning and Building
+- 🚀 Become a Professional Frontend Developer
+- ⚛️ Master React & Tailwind CSS
+- 🦀 Learn Rust for Blockchain Development
+- 🌟 Build Projects on the Stellar Ecosystem
+- 🤝 Contribute Consistently to Open Source
+- 📚 Keep Learning and Building
 
 ---
 
@@ -144,7 +144,7 @@ Open-source contribution where I fixed issues and improved the codebase.
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Johnpii1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Johnpii1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -154,19 +154,19 @@ Open-source contribution where I fixed issues and improved the codebase.
 <p align="left">
 
 <a href="mailto:okolichimaobi08@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/Johnpii1">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://t.me/johnpii2" target="_blank">
-<img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="50" height="50" alt="Telegram"/>
+  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="50" height="50" alt="Telegram" />
 </a>
 
 </p>
