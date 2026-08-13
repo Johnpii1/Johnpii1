@@ -12,10 +12,10 @@
 
 I'm a passionate **Frontend Developer** and **Open Source Contributor** with a growing interest in **Blockchain Development**. I enjoy building responsive web applications, contributing to open-source projects, and continuously learning modern technologies.
 
-- 🌱 Currently learning **React, Tailwind CSS, Rust & Stellar**
-- 💻 Building modern, responsive web applications
-- 🤝 Contributing to open-source projects
-- 🚀 Expanding my blockchain development skills
+* 🌱 Currently learning **React, Tailwind CSS, Rust & Stellar**
+* 💻 Building modern, responsive web applications
+* 🤝 Contributing to open-source projects
+* 🚀 Expanding my blockchain development skills
 
 ---
 
@@ -112,22 +112,27 @@ Open-source contribution where I fixed issues and improved the codebase.
 
 ## 🚧 Currently Working On
 
-- 🌊 Contributing to blockchain open-source projects
-- ⚛️ Building modern frontend applications with React & Tailwind CSS
-- 🦀 Learning Rust and Soroban smart contract development
-- 🚀 Exploring the Stellar ecosystem
-- 🤝 Contributing to open-source projects and collaborating with developers worldwide
+* 🧾 **CertiCraft** — Building a modern certificate creation, management, and verification platform.
+* 🌊 Contributing to blockchain open-source projects
+* ⚛️ Building modern frontend applications with React & Tailwind CSS
+* 🦀 Learning Rust and Soroban smart contract development
+* 🚀 Exploring the Stellar ecosystem
+* 🤝 Contributing to open-source projects and collaborating with developers worldwide
+
+### 🔗 CertiCraft
+
+[**Live Demo →**](https://certicraft-frontend.onrender.com/)
 
 ---
 
 ## 🎯 Goals for 2026
 
-- 🚀 Become a Professional Frontend Developer
-- ⚛️ Master React & Tailwind CSS
-- 🦀 Learn Rust for Blockchain Development
-- 🌟 Build Projects on the Stellar Ecosystem
-- 🤝 Contribute Consistently to Open Source
-- 📚 Keep Learning and Building
+* 🚀 Become a Professional Frontend Developer
+* ⚛️ Master React & Tailwind CSS
+* 🦀 Learn Rust for Blockchain Development
+* 🌟 Build Projects on the Stellar Ecosystem
+* 🤝 Contribute Consistently to Open Source
+* 📚 Keep Learning and Building
 
 ---
 
@@ -157,13 +162,13 @@ Open-source contribution where I fixed issues and improved the codebase.
   <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://github.com/Johnpii1">
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://t.me/johnpii2" target="_blank">
   <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="50" height="50" alt="Telegram" />
