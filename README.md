@@ -72,14 +72,16 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
 AI-powered platform that provides pay-per-use access to AI tools and services.
 
 <p align="center">
-  <a href="https://github.com/WPrasad99/Pay-Per-Use-Ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WPrasad99&repo=Pay-Per-Use-Ai&theme=tokyonight&hide_border=true" />
-  </a>
+  <img
+    src="YOUR_PAY_PER_USE_AI_SCREENSHOT"
+    width="100%"
+    alt="Pay-Per-Use AI"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/WPrasad99/Pay-Per-Use-Ai">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -92,14 +94,16 @@ AI-powered platform that provides pay-per-use access to AI tools and services.
 Open-source contribution where I fixed issues and improved the codebase.
 
 <p align="center">
-  <a href="https://github.com/Johnpii1/Fresh-Bounty--fork">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Johnpii1&repo=Fresh-Bounty--fork&theme=tokyonight&hide_border=true" />
-  </a>
+  <img
+    src="YOUR_FRESH_BOUNTY_SCREENSHOT"
+    width="100%"
+    alt="Fresh Bounty"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/Johnpii1/Fresh-Bounty--fork">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
