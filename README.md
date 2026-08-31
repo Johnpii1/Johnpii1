@@ -12,10 +12,10 @@
 
 I'm a passionate **Frontend Developer** and **Open Source Contributor** with a growing interest in **Blockchain Development**. I enjoy building responsive web applications, contributing to open-source projects, and continuously learning modern technologies.
 
-- 🌱 Currently learning **React, Tailwind CSS, Rust & Stellar**
-- 💻 Building modern, responsive web applications
-- 🤝 Contributing to open-source projects
-- 🚀 Expanding my blockchain development skills
+* 🌱 Currently learning **React, Tailwind CSS, Rust & Stellar**
+* 💻 Building modern, responsive web applications
+* 🤝 Contributing to open-source projects
+* 🚀 Expanding my blockchain development skills
 
 ---
 
@@ -43,10 +43,11 @@ I'm a passionate **Frontend Developer** and **Open Source Contributor** with a g
     alt="Johnpaul's GitHub Stats"
   />
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Johnpaul's Top Languages"
-  />
+<img
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Johnpii1&layout=compact&theme=tokyonight&hide_border=true"
+ alt="Johnpaul's Top Languages"
+/>
+
 </p>
 
 ---
@@ -131,12 +132,42 @@ A modern certificate creation, management, and verification platform.
 <p align="center">
 
 <a href="https://github.com/Johnpii1">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CertiCraft GitHub" />
 </a>
 
 </p>
 
 </td>
+
+<td width="50%" valign="top">
+
+### 💰 MiniLend
+
+A decentralized lending platform that allows users to **stake ETH, borrow assets, repay loans, and withdraw funds** through a modern Web3 interface.
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web3-Lending-00D26A?style=for-the-badge" alt="Web3 Lending" />
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Frontend" />
+
+<img src="https://img.shields.io/badge/Stellar-Soroban-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar Soroban" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Johnpii1">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="MiniLend GitHub" />
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -152,6 +183,22 @@ Exploring blockchain development and building projects around the Stellar ecosys
 
 </td>
 
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+
+Building and experimenting with modern frontend, Web3, and open-source projects.
+
+<p align="center">
+
+<a href="https://github.com/Johnpii1">
+<img src="https://img.shields.io/badge/View-All%20Projects-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+</a>
+
+</p>
+
+</td>
+
 </tr>
 </table>
 
@@ -159,12 +206,23 @@ Exploring blockchain development and building projects around the Stellar ecosys
 
 ## 🚧 Currently Working On
 
-- 🧾 **CertiCraft** — Building a modern certificate creation, management, and verification platform
-- 🌊 Contributing to blockchain open-source projects
-- ⚛️ Building modern frontend applications with React & Tailwind CSS
-- 🦀 Learning Rust and Soroban smart contract development
-- 🚀 Exploring the Stellar ecosystem
-- 🤝 Contributing to open-source projects and collaborating with developers worldwide
+* 🧾 **CertiCraft** — Building a modern certificate creation, management, and verification platform
+* 💰 **MiniLend** — Building a decentralized lending platform for Web3 users
+* 🌊 Contributing to blockchain open-source projects
+* ⚛️ Building modern frontend applications with React & Tailwind CSS
+* 🦀 Learning Rust and Soroban smart contract development
+* 🚀 Exploring the Stellar ecosystem
+* 🤝 Contributing to open-source projects and collaborating with developers worldwide
+
+### 🔗 MiniLend
+
+<p align="center">
+
+<a href="https://github.com/Johnpii1">
+<img src="https://img.shields.io/badge/🚀_View_MiniLend-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="View MiniLend" />
+</a>
+
+</p>
 
 ### 🔗 CertiCraft
 
@@ -180,12 +238,12 @@ Exploring blockchain development and building projects around the Stellar ecosys
 
 ## 🎯 Goals for 2026
 
-- 🚀 Become a Professional Frontend Developer
-- ⚛️ Master React & Tailwind CSS
-- 🦀 Learn Rust for Blockchain Development
-- 🌟 Build Projects on the Stellar Ecosystem
-- 🤝 Contribute Consistently to Open Source
-- 📚 Keep Learning and Building
+* 🚀 Become a Professional Frontend Developer
+* ⚛️ Master React & Tailwind CSS
+* 🦀 Learn Rust for Blockchain Development
+* 🌟 Build Projects on the Stellar Ecosystem
+* 🤝 Contribute Consistently to Open Source
+* 📚 Keep Learning and Building
 
 ---
 
@@ -204,8 +262,8 @@ Exploring blockchain development and building projects around the Stellar ecosys
 <p align="center">
 
 <img
-  src="https://komarev.com/ghpvc/?username=Johnpii1&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-  alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=Johnpii1&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+alt="Profile Views"
 />
 
 </p>
@@ -225,7 +283,7 @@ Exploring blockchain development and building projects around the Stellar ecosys
   />
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://github.com/Johnpii1">
   <img
@@ -236,7 +294,7 @@ Exploring blockchain development and building projects around the Stellar ecosys
   />
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://t.me/johnpii2" target="_blank">
   <img
